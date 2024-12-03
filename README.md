@@ -1,10 +1,12 @@
 # Installation Instructions
-
-**To run this code, you need to install the following Python libraries:**
-
-```bash
-pip install matplotlib pandas folium geopy
-```
+1. **Clone the Repository:**
+   ```bash
+   git clone <repository-url>
+   ```
+2. **To run this code, you need to install the following Python libraries:**
+    ```bash
+    pip install matplotlib pandas folium geopy
+    ```
 
 - Make sure you have Python and pip installed on your system before running the above command.
 ## Install Python
